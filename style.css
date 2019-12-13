@@ -1,0 +1,17 @@
+/*
+ * Theme Name:   Community Money Advice - Corsham
+ * Theme URI:    http://example.com/twenty-fifteen-child/
+ * Description:  Twenty Nineteen child theme for CMA Corsham
+ * Author:       Tim Stephenson
+ * Author URI:   http://knowprocess.com
+ * Template:     twentynineteen
+ * Version:      1.0.0
+ * License:      GNU General Public License v2 or later
+ * License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ * Text Domain:  cmacorsham
+ */
+
+.site-title, .site-description, .main-navigation, .nav-links, .page-title, .page-description, .comment-author .fn, .no-comments, h2.author-title, p.author-bio, h4 {
+    font-size: 2.2em;
+}
